@@ -1,4 +1,4 @@
-# In this project, you will learn the following:
+# In this project, you will know the following:
 
 ### 1. **Running Django with Docker**
   - Containerize and run Django applications using Docker and docker-compose.
