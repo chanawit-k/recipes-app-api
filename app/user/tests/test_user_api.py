@@ -5,8 +5,8 @@ from django.test import TestCase
 from django.contrib.auth import get_user_model
 from django.urls import reverse
 
-from rest_framework.test import APIClient # type: ignore
-from rest_framework import status # type: ignore
+from rest_framework.test import APIClient  # type: ignore
+from rest_framework import status  # type: ignore
 
 
 CREATE_USER_URL = reverse('user:create')
