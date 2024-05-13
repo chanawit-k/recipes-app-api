@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_spectacular',
     'user',
-    'recipe'
+    'recipe',
+    'django_extensions'
 ]
 
 MIDDLEWARE = [
